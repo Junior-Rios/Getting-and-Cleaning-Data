@@ -1,0 +1,4 @@
+The averages of the means and standard deviations for each activity for each individual test subject were calculated and are presented in the tidy data set 'tidy_data_of_means.txt'.
+#####Details of fixes addressed
+####Details of fixes addressed
+While there weren't many mistakes that I saw. One fixed in the course of making the variable names of the measures better involved the variable names. For example, the `features_info.txt` file listed that there should be `fBodyAccJerkMag` but that doesn't occur in the original provided features listing in `features.txt`. Instead there is `fBodyBodyAccJerkMag`  in `features.txt`. Likewise, a similar phenomena occurs for several of the last variable names listed towards the end of the list of variable names in `features.txt`. (The list itself encompasses lines 13 to 29 of that file.)
